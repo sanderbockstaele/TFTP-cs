@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFTP-cs", "TFTP-cs\TFTP-cs.csproj", "{2FD7EB73-033E-479A-9011-E2E60C1EDFE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD7EB73-033E-479A-9011-E2E60C1EDFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD7EB73-033E-479A-9011-E2E60C1EDFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD7EB73-033E-479A-9011-E2E60C1EDFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD7EB73-033E-479A-9011-E2E60C1EDFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0395A06A-48BC-4D52-9DCD-5DF21128235E}
+	EndGlobalSection
+EndGlobal
