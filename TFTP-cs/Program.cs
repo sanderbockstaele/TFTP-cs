@@ -7,4 +7,13 @@
             Console.WriteLine("Hello, World!");
         }
     }
+    class TFTP
+    {
+        Uri? hostUri = null;
+        public TFTP(string host, string filepath)
+        {
+            hostUri ??= new Uri(host);
+        }
+    }
+    }
 }
